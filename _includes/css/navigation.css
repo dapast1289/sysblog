@@ -1,0 +1,14 @@
+/* Theme for our SysAdminCat Blog on YouTube
+Date : 12. February
+cssfile: navigation
+*/
+
+.space {
+    background: pink;
+}
+.nav-space-top {
+    font-size: 33px;
+}
+.nav-space-bottom {
+    font-size: 13px;
+}
