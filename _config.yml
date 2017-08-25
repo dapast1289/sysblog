@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: kramdown
 baseurl: /sysblog
 exclude: ['README.md']
 permalink: pretty
